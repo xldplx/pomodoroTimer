@@ -13,7 +13,7 @@ A simple Pomodoro timer application built with React, TypeScript, and Vite. This
 
 1. Clone the repository and install the dependencies with `npm install` or `yarn install`.
 2. Start the application with `npm run dev` or `yarn dev`.
-3. Open your web browser and navigate to `http://localhost:3000`.
+3. Open your web browser and navigate to `http://localhost:5173`.
 4. Choose your preferred productivity technique and start your work session.
 
 ## Contributing
