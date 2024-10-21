@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Play, Pause, RotateCcw, Coffee, Book, Brain, Clock } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Play, Pause, RotateCcw, Coffee, } from 'lucide-react';
 import Navbar from './components/Navbar';
 import PomodoroTimer from './components/PomodoroTimer';
 
